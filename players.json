@@ -20,7 +20,7 @@
         ],
         "SkillLevel": "Avançado",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "8784",
@@ -33,7 +33,7 @@
         ],
         "SkillLevel": "Iniciante",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "6642",
@@ -45,7 +45,7 @@
         ],
         "SkillLevel": "Fora deste mundo",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5561",
@@ -58,7 +58,7 @@
         ],
         "SkillLevel": "Iniciante",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5560",
@@ -70,7 +70,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5531",
@@ -81,7 +81,7 @@
         ],
         "SkillLevel": "Noob",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5525",
@@ -93,7 +93,7 @@
         ],
         "SkillLevel": "Avançado",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5412",
@@ -115,7 +115,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5384",
@@ -127,7 +127,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5208",
@@ -139,7 +139,7 @@
         ],
         "SkillLevel": "Intermédio",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5075",
@@ -151,7 +151,7 @@
         ],
         "SkillLevel": "Iniciante",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "5051",
@@ -173,7 +173,7 @@
         ],
         "SkillLevel": "Avançado",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4856",
@@ -185,7 +185,7 @@
         ],
         "SkillLevel": "Iniciante",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4785",
@@ -197,7 +197,7 @@
         ],
         "SkillLevel": "Intermédio",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4761",
@@ -209,7 +209,7 @@
         ],
         "SkillLevel": "Intermédio",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4749",
@@ -229,7 +229,7 @@
         ],
         "SkillLevel": "Iniciante",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4588",
@@ -263,7 +263,7 @@
         ],
         "SkillLevel": "Especialista",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "4292",
@@ -287,7 +287,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Muita",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3884",
@@ -330,7 +330,7 @@
         ],
         "SkillLevel": "Avançado",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3708",
@@ -342,7 +342,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Nenhuma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3618",
@@ -384,7 +384,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3437",
@@ -394,7 +394,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3376",
@@ -417,7 +417,7 @@
         ],
         "SkillLevel": "Noob",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3346",
@@ -429,7 +429,7 @@
         ],
         "SkillLevel": "Intermédio",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3341",
@@ -452,7 +452,7 @@
         ],
         "SkillLevel": "Intermédio",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3339",
@@ -515,7 +515,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3329",
@@ -712,7 +712,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3307",
@@ -746,7 +746,7 @@
         ],
         "SkillLevel": "Noob",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3304",
@@ -766,7 +766,7 @@
         ],
         "SkillLevel": "Avançado",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3301",
@@ -787,7 +787,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Pouca",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3299",
@@ -832,7 +832,7 @@
         ],
         "SkillLevel": "Ok",
         "XP": "Alguma",
-        "WinRate": "-"
+        "WinRate": "0.0 %"
     },
     {
         "PlayerID": "3295",
