@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mashado - Home</title>
-    <link rel="icon" type="image/x-icon" href="img/iconsmashbros.ico">
+    <title>Mashado</title>
+    <link rel="icon" type="image/x-icon" href="/img/iconsmashbros.ico">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,13 +31,10 @@
                       <a class="nav-link" href="clips.html">Clips</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="leaderboards.html">Leaderboards</a>
+                      <a class="nav-link" href="leaderboards.html">Jogadores</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#">Eventos</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#">Jogadores</a>
+                      <a class="nav-link" href="events.html">Eventos</a>
                     </li>
                   </ul>
                 </div>
@@ -71,7 +68,7 @@
                                     <div class="card-body">
                                       <h5 class="card-title">Zerin é o vencedor da Locus League!</h5>
                                       <p class="card-text">Zerin, depois de muito treino e dedicaçao, prova-se um real profissional, e vence a Locus League.</p>
-                                      <a href="#" class="btn btn-danger">Ler mais</a>
+                                      <a href="noticia2.html" class="btn btn-danger">Ler mais</a>
                                     </div>
                                   </div>
                                 </div>
@@ -162,7 +159,7 @@
                     </div>
                   </div>
                   <!-- Smash Tools -->
-                  <div class="col-12 col-lg-6 my-2">
+                  <div class="col-12 col-lg-4 my-2">
                     <div class="card h-100">
                       <div class="card-body">
                         <h5 class="card-title mashado">Smash Tools</h5>
@@ -218,28 +215,46 @@
                     </div>
                   </div>
                   <!-- Clip do dia -->
-                  <div class="col-12 col-lg-6 my-2">
+                  <div class="col-12 col-lg-8 my-2">
                     <div class="card">
                       <div class="card-body">
-                        <div class="card-title">
+                        <div class="card-title mb-3">
                           <h5 class="mashado">Clip do dia</h5>
                         </div>
-                        <div class="ratio ratio-16x9 mt-2">
-                          <iframe 
-                            src="https://www.youtube.com/embed/H3ywBNVyJL4?si=XpNc2T8-YJYwHhSd" 
-                            title="YouTube video player" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                            referrerpolicy="strict-origin-when-cross-origin" 
-                            allowfullscreen>
-                          </iframe>
-                        </div>
-                        <a href="clips.html"><button type="button" class="btn btn-danger mt-3">Ver mais clips</button></a>
+                          <div class="ratio ratio-16x9 mt-2">
+                            <iframe
+                              id="youtube-player"
+                              src="https://www.youtube.com/embed/H3ywBNVyJL4?si=XpNc2T8-YJYwHhSd" 
+                              title="YouTube video player" 
+                              frameborder="0" 
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                              referrerpolicy="strict-origin-when-cross-origin" 
+                              allowfullscreen>
+                            </iframe>
+                          </div>
+                          <div class="d-flex justify-content-center">
+                            <a href=""><button class="btn btn-danger mt-3 m-1" id="previous"><</button></a>
+                            <a href="clips.html"><button type="button" class="btn btn-danger mt-3">Ver mais clips</button></a>
+                            <a href=""><button class="btn btn-danger mt-3 m-1" id="next">></button></a>
+                          </div>
                       </div>
                     </div>
                   </div>                  
               </div>
           </div>
+          <!-- Footer -->
+          <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 mt-3 border-top">
+            <p class="col-md-4 mb-0 text-body-secondary mashado">© 2024 Mashado</p>
+            <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+              <img src="/img/iconsmashbros.png" alt="" width="40" height="40">
+            </a>
+            <ul class="nav col-md-4 justify-content-end">
+              <li class="nav-item"><a href="index.html" class="nav-link px-2 text-body-secondary">Home</a></li>
+              <li class="nav-item"><a href="clips.html" class="nav-link px-2 text-body-secondary">Clips</a></li>
+              <li class="nav-item"><a href="leaderboards.html" class="nav-link px-2 text-body-secondary">Jogadores</a></li>
+              <li class="nav-item"><a href="events.html" class="nav-link px-2 text-body-secondary">Eventos</a></li>
+            </ul>
+          </footer>
         </div>
         </div>
       </div>
