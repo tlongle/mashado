@@ -34,3 +34,21 @@ small{
     text-decoration: none;
     font-size: smaller;
 }
+
+.shopatyo {
+    text-decoration: none;
+}
+
+.card-event{
+    transition: ease 1s;
+}
+
+.card-event:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+.image-card{
+    height: 250px;
+    object-fit:cover;
+    width:100%;
+}
