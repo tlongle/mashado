@@ -1,0 +1,867 @@
+[
+    {
+        "PlayerID": "9279",
+        "Name": "TFS0 | Tomasfs0",
+        "Characters": [
+            "pyra",
+            "mythra",
+            "sora",
+            "cloud"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Muita",
+        "WinRate": "12.2 %"
+    },
+    {
+        "PlayerID": "9214",
+        "Name": "Gholü",
+        "Characters": [
+            "dr_mario"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "8784",
+        "Name": "Zizz",
+        "Characters": [
+            "joker",
+            "pyra",
+            "mythra",
+            "wario"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "6642",
+        "Name": "DQ | WFTGuedo",
+        "Characters": [
+            "wii_fit_trainer",
+            "wii_fit_trainer",
+            "wii_fit_trainer"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5561",
+        "Name": "OBaiao",
+        "Characters": [
+            "toon_link",
+            "piranha_plant",
+            "pyra",
+            "mythra"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5560",
+        "Name": "Jumpre",
+        "Characters": [
+            "ness",
+            "young_link",
+            "byleth"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5531",
+        "Name": "bracames",
+        "Characters": [
+            "dr_mario",
+            "captain_falcon"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5525",
+        "Name": "ACS- | Coldbee",
+        "Characters": [
+            "rob",
+            "inkling",
+            "steve"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5412",
+        "Name": "BigMarioFan28",
+        "Characters": [
+            "mario"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Imensa",
+        "WinRate": "59.13 %"
+    },
+    {
+        "PlayerID": "5405",
+        "Name": "saMmu",
+        "Characters": [
+            "kirby",
+            "wolf",
+            "roy"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5384",
+        "Name": "LeFix",
+        "Characters": [
+            "inkling",
+            "pyra",
+            "mythra"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5208",
+        "Name": "Sharplet",
+        "Characters": [
+            "corrin",
+            "palutena",
+            "mewtwo"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5075",
+        "Name": "Roger",
+        "Characters": [
+            "duck_hunt",
+            "link",
+            "sora"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "5051",
+        "Name": "DQ | manu",
+        "Characters": [
+            "mr_game_and_watch"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Pouca",
+        "WinRate": "33.33 %"
+    },
+    {
+        "PlayerID": "4953",
+        "Name": "Elykarina | Siuaaron",
+        "Characters": [
+            "greninja",
+            "lucario",
+            "pikachu"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4856",
+        "Name": "Soud03",
+        "Characters": [
+            "terry",
+            "samus",
+            "dark_samus"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4785",
+        "Name": "Lowtier-Hightier",
+        "Characters": [
+            "king_k_rool",
+            "pit",
+            "roy"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4761",
+        "Name": "Bpenedo",
+        "Characters": [
+            "pikachu",
+            "greninja",
+            "little_mac"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4749",
+        "Name": "Pist4chio",
+        "Characters": [
+            "greninja"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Pouca",
+        "WinRate": "33.33 %"
+    },
+    {
+        "PlayerID": "4728",
+        "Name": "RodriPlay",
+        "Characters": [
+            "yoshi"
+        ],
+        "SkillLevel": "Iniciante",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4588",
+        "Name": "Torres",
+        "Characters": [
+            "dark_pit",
+            "mr_game_and_watch"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "39.29 %"
+    },
+    {
+        "PlayerID": "4584",
+        "Name": "Amafite",
+        "Characters": [
+            "mewtwo",
+            "lucas"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "32.5 %"
+    },
+    {
+        "PlayerID": "4494",
+        "Name": "Daniel B",
+        "Characters": [
+            "sora",
+            "richter",
+            "sonic"
+        ],
+        "SkillLevel": "Especialista",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "4292",
+        "Name": "tozeleal",
+        "Characters": [
+            "mr_game_and_watch",
+            "bowser",
+            "captain_falcon"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Alguma",
+        "WinRate": "8.33 %"
+    },
+    {
+        "PlayerID": "3986",
+        "Name": "Johnny Macarroci",
+        "Characters": [
+            "bowser",
+            "mii_brawler",
+            "ganondorf"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Muita",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3884",
+        "Name": "Vorcray",
+        "Characters": [
+            "ike",
+            "donkey_kong",
+            "mewtwo"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3881",
+        "Name": "TA | Naga",
+        "Characters": [
+            "greninja",
+            "king_dedede"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Imensa",
+        "WinRate": "32.28 %"
+    },
+    {
+        "PlayerID": "3743",
+        "Name": "ToasterText",
+        "Characters": [
+            "marth"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Imensa",
+        "WinRate": "42.39 %"
+    },
+    {
+        "PlayerID": "3742",
+        "Name": "DJMP",
+        "Characters": [
+            "ness"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3708",
+        "Name": "Serran0",
+        "Characters": [
+            "zero_suit_samus",
+            "greninja",
+            "incineroar"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Nenhuma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3618",
+        "Name": "Thank",
+        "Characters": [
+            "falco"
+        ],
+        "SkillLevel": "Especialista",
+        "XP": "Muita",
+        "WinRate": "70.45 %"
+    },
+    {
+        "PlayerID": "3587",
+        "Name": "X|V | Seika",
+        "Characters": [
+            "zelda"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Imensa",
+        "WinRate": "20.14 %"
+    },
+    {
+        "PlayerID": "3586",
+        "Name": "KEEP | gontra08",
+        "Characters": [
+            "little_mac"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3583",
+        "Name": "F4 | DaSlickMick",
+        "Characters": [
+            "mewtwo",
+            "piranha_plant",
+            "byleth"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3437",
+        "Name": "Wing (PT)",
+        "Characters": [
+            "roy"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3376",
+        "Name": "Jonnas",
+        "Characters": [
+            "incineroar",
+            "zelda",
+            "terry"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "44.44 %"
+    },
+    {
+        "PlayerID": "3361",
+        "Name": "GUI | rodas001",
+        "Characters": [
+            "sephiroth",
+            "little_mac"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3346",
+        "Name": "Philaharmic",
+        "Characters": [
+            "terry",
+            "kazuya",
+            "hero"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3341",
+        "Name": "Xeze",
+        "Characters": [
+            "samus",
+            "dark_samus"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Alguma",
+        "WinRate": "51.11 %"
+    },
+    {
+        "PlayerID": "3340",
+        "Name": "Sultan",
+        "Characters": [
+            "meta_knight",
+            "luigi",
+            "mega_man"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3339",
+        "Name": "WLPR | Rapires",
+        "Characters": [
+            "kazuya",
+            "ice_climbers"
+        ],
+        "SkillLevel": "Professional",
+        "XP": "Imensa",
+        "WinRate": "78.71 %"
+    },
+    {
+        "PlayerID": "3336",
+        "Name": "Santurso",
+        "Characters": [
+            "mario"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "15.79 %"
+    },
+    {
+        "PlayerID": "3333",
+        "Name": "Storm",
+        "Characters": [
+            "zero_suit_samus",
+            "wolf"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Imensa",
+        "WinRate": "54.33 %"
+    },
+    {
+        "PlayerID": "3332",
+        "Name": "Dani Atxo",
+        "Characters": [
+            "yoshi",
+            "min_min"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Pouca",
+        "WinRate": "20.0 %"
+    },
+    {
+        "PlayerID": "3331",
+        "Name": "WLPR | Bidoof",
+        "Characters": [
+            "joker"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Imensa",
+        "WinRate": "35.14 %"
+    },
+    {
+        "PlayerID": "3330",
+        "Name": "Pescador",
+        "Characters": [
+            "fox"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3329",
+        "Name": "LuisSilva",
+        "Characters": [
+            "banjo_and_kazooie"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "55.38 %"
+    },
+    {
+        "PlayerID": "3325",
+        "Name": "CaptPliskin",
+        "Characters": [
+            "joker",
+            "falco"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "12.5 %"
+    },
+    {
+        "PlayerID": "3324",
+        "Name": "FTW | Zerin",
+        "Characters": [
+            "joker",
+            "wolf",
+            "rob"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Imensa",
+        "WinRate": "81.18 %"
+    },
+    {
+        "PlayerID": "3323",
+        "Name": "DQ | fearsome",
+        "Characters": [
+            "bayonetta",
+            "bayonetta",
+            "bayonetta"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "20.0 %"
+    },
+    {
+        "PlayerID": "3322",
+        "Name": "DQ | Belfo",
+        "Characters": [
+            "byleth",
+            "yoshi"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "27.27 %"
+    },
+    {
+        "PlayerID": "3321",
+        "Name": "Cyrus",
+        "Characters": [
+            "incineroar",
+            "greninja"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Imensa",
+        "WinRate": "57.35 %"
+    },
+    {
+        "PlayerID": "3319",
+        "Name": "3-13 | Aegis",
+        "Characters": [
+            "corrin",
+            "pyra",
+            "mythra"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Imensa",
+        "WinRate": "53.69 %"
+    },
+    {
+        "PlayerID": "3318",
+        "Name": "ORO | Puto_Guilhas",
+        "Characters": [
+            "peach",
+            "byleth"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "65.16 %"
+    },
+    {
+        "PlayerID": "3317",
+        "Name": "Benca",
+        "Characters": [
+            "roy"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Imensa",
+        "WinRate": "66.29 %"
+    },
+    {
+        "PlayerID": "3316",
+        "Name": "DQ | TFCC",
+        "Characters": [
+            "sephiroth",
+            "terry"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "38.46 %"
+    },
+    {
+        "PlayerID": "3315",
+        "Name": "Xaraine",
+        "Characters": [
+            "sonic",
+            "fox"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "40.0 %"
+    },
+    {
+        "PlayerID": "3314",
+        "Name": "3-13 | UrQte",
+        "Characters": [
+            "sephiroth",
+            "robin",
+            "marth"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Imensa",
+        "WinRate": "40.97 %"
+    },
+    {
+        "PlayerID": "3313",
+        "Name": "Lumina",
+        "Characters": [
+            "zero_suit_samus"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Muita",
+        "WinRate": "25.0 %"
+    },
+    {
+        "PlayerID": "3312",
+        "Name": "F4 | Snoopy",
+        "Characters": [
+            "king_k_rool"
+        ],
+        "SkillLevel": "Especialista",
+        "XP": "Imensa",
+        "WinRate": "54.35 %"
+    },
+    {
+        "PlayerID": "3311",
+        "Name": "Marcelo747",
+        "Characters": [
+            "king_dedede"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Muita",
+        "WinRate": "17.24 %"
+    },
+    {
+        "PlayerID": "3310",
+        "Name": "octo",
+        "Characters": [
+            "mewtwo",
+            "ken",
+            "kirby"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Alguma",
+        "WinRate": "21.43 %"
+    },
+    {
+        "PlayerID": "3309",
+        "Name": "Sol",
+        "Characters": [
+            "ike",
+            "lucina"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "58.95 %"
+    },
+    {
+        "PlayerID": "3308",
+        "Name": "Byte",
+        "Characters": [
+            "jigglypuff"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3307",
+        "Name": "Hebi",
+        "Characters": [
+            "snake"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "37.78 %"
+    },
+    {
+        "PlayerID": "3306",
+        "Name": "SupLex",
+        "Characters": [
+            "terry",
+            "kazuya",
+            "pyra",
+            "mythra"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "59.49 %"
+    },
+    {
+        "PlayerID": "3305",
+        "Name": "funky",
+        "Characters": [
+            "bayonetta",
+            "joker"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3304",
+        "Name": "FCTUC | RawrDragon",
+        "Characters": [
+            "king_dedede"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Muita",
+        "WinRate": "73.33 %"
+    },
+    {
+        "PlayerID": "3303",
+        "Name": "Daltooh",
+        "Characters": [
+            "cloud"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3301",
+        "Name": "ORO | Zekip",
+        "Characters": [
+            "shulk"
+        ],
+        "SkillLevel": "Fora deste mundo",
+        "XP": "Muita",
+        "WinRate": "68.75 %"
+    },
+    {
+        "PlayerID": "3300",
+        "Name": "WLPR | MisterJO",
+        "Characters": [
+            "king_k_rool",
+            "dark_pit"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3299",
+        "Name": "Kamina",
+        "Characters": [
+            "pokemon_trainer",
+            "joker"
+        ],
+        "SkillLevel": "Noob",
+        "XP": "Imensa",
+        "WinRate": "14.04 %"
+    },
+    {
+        "PlayerID": "3298",
+        "Name": "uP  | Duplo_A",
+        "Characters": [
+            "little_mac",
+            "terry",
+            "sora"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Muita",
+        "WinRate": "48.28 %"
+    },
+    {
+        "PlayerID": "3297",
+        "Name": "B&B | BigLord",
+        "Characters": [
+            "mii_gunner",
+            "mii_swordfighter",
+            "mii_brawler"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "69.19 %"
+    },
+    {
+        "PlayerID": "3296",
+        "Name": "Tanou",
+        "Characters": [
+            "ness"
+        ],
+        "SkillLevel": "Ok",
+        "XP": "Alguma",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3295",
+        "Name": "OneforAsh",
+        "Characters": [
+            "byleth"
+        ],
+        "SkillLevel": "Intermédio",
+        "XP": "Pouca",
+        "WinRate": "0.0 %"
+    },
+    {
+        "PlayerID": "3265",
+        "Name": "Daiki",
+        "Characters": [
+            "sora"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "65.56 %"
+    },
+    {
+        "PlayerID": "3242",
+        "Name": "FTW | Iberyes",
+        "Characters": [
+            "pokemon_trainer"
+        ],
+        "SkillLevel": "Avançado",
+        "XP": "Imensa",
+        "WinRate": "67.16 %"
+    }
+]
