@@ -40,7 +40,7 @@ small{
 }
 
 .card-event{
-    transition: ease 1s;
+    transition: ease 0.4s;
 }
 
 .card-event:hover{
